@@ -1,2 +1,2 @@
 # fabrykaTestow
-nauka pisania testów automatycznych w Pythonie
+nauka pisania testów automatycznych w Pythonie - ćwiczenia
