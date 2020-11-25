@@ -11,3 +11,6 @@ time.sleep(1)
 print(r.encoding)
 time.sleep(1)
 print(r.json)
+
+
+
